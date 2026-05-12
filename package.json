@@ -6,7 +6,7 @@
         "cookie-session": "^1.4.0",
         "ejs": "~3.1.7",
         "express": "^4.17.3",
-        "socket.io": "^2.3.0"
+        "socket.io": "^2.5.0"
     },
     "author": "HD-s <hakim.djabri@gmail.com>",
     "description": "Un gestionnaire de todolist ultra basique"
